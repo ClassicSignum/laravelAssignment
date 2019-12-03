@@ -1,0 +1,26 @@
+ATP-3[Final Assignment]
+Submission: 04-11-2019
+------------------------
+
+Title: Image Gallery / Management 
+
+Overview:
+A stand alone image management system that can easily (Manually) add to old static websites. 
+In order to give client the ability to login, create galleries & add their own pictures to this section of their  websites.
+
+Requirements:
+-Secure login (User accounts manually added to the DB)
+-Uploading - Single or Multiple image - Manual selection or drag & drop. 
+-Image Manipulation
+        -Rotate left and right
+        -Add description
+        -Add Title/Alt 
+        -Crop
+        -Date modified
+        -Sorting - Asc/Desc or Manually.
+-Up to 2 categories deep. 
+        -Cat 1: Vehicles 
+        	-Sub category 1: Boats
+        	-Sub category 2: Cars
+        	-Sub category 3: Trucks
+-Layout options "Mosaic" or "Standard" 
